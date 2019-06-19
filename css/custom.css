@@ -12,3 +12,6 @@ body{
 textarea.static{
     resize: none;
 }
+.jumbotron{
+    border: 1px solid #eee;
+}

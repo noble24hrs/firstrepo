@@ -1,0 +1,14 @@
+body{
+    background-color:#dcebf9;
+}
+.container,
+.container_fluid{
+    padding-top: 50px;
+}
+
+#title{
+    background-color: rgb(146, 158, 112);
+}
+textarea.static{
+    resize: none;
+}
